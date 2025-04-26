@@ -169,7 +169,6 @@ commands = [
     "--cov-branch",
     "--cov-report",
     "term-missing:skip-covered",
-    "--allow-no-tests",
   ],
 ]
 
