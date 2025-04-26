@@ -165,8 +165,7 @@ commands = [
   [
     "pytest",
     "--ignore=tests/local",
-    "--cov=src/mstech/inference",
-    "--cov=src/prompting",
+    "--cov=src/ja_normalizer",
     "--cov-branch",
     "--cov-report",
     "term-missing:skip-covered",
